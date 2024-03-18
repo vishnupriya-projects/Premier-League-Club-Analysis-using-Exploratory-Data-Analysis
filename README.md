@@ -47,4 +47,6 @@ By using Exploratory Data Analysis, following are observations made which helps 
 - Based on above score we can say that in terms of all scores 'Blackburn Rovers' was on top followed by 'Leicester City'.
 - If we closely look the latest experience of both, Leicester City has recently played in 2023, were Blackburn Rovers was played in 2012 which is quiet long back.
 - so that we recommend 'Leicester City's' is better choice for investment based on recent form and its performance.
+## Acknowledgement:
+-Thanks to dataanalystduo team, for providing the data and Special thanks to Aditi for your guidence through out the project.
 
